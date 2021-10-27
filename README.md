@@ -24,8 +24,7 @@
 &nbsp;&nbsp;
  <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 &nbsp;&nbsp;
- <img align="center" alt="vsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- &nbsp;&nbsp; 
+ 
 </p>
 </div>
 <br>
